@@ -16,8 +16,8 @@
   "neutralHello": "State your business.",
   "hateHello": "You test our patience.",
   "tradeRequest": "The Ottoman markets are open for negotiation.",
-  "outerColor": [0, 100, 0],   // Koyu yeşil
-  "innerColor": [255, 215, 0], // Altın rengi
+  "outerColor": [0, 100, 0], 
+  "innerColor": [255, 215, 0], 
   "favoredReligion": "Islam",
   "uniqueName": "Sublime Porte",
   "uniques": [
